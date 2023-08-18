@@ -10,7 +10,7 @@ function threeSum(arr, target) {
 		  }
 	  }
   }
-	console.log(c);
+	return c;
 }
 
 module.exports = threeSum;
